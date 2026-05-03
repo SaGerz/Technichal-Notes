@@ -7,7 +7,7 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 
 | Folder | Topik Utama | Status |
 | :--- | :--- | :--- |
-| [📂 OOP-Concepts](./OOP-Concepts/) | Pemahaman Interface, Abstract Class, dan Inheritance. | ✅ Selesai |
+| [📂 OOP-Concepts](./OOP_Abstract_Interface_NormalClass/) | Pemahaman Interface, Abstract Class, dan Inheritance. | ✅ Selesai |
 
 ---
 
@@ -16,7 +16,6 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 Catatan di repo ini dibuat berdasarkan pengalaman ngoding di lingkungan berikut:
 *   **Language:** C# (.NET 6/8)
 *   **Tools:** Visual Studio 2022, VS Code, JetBrains Rider.
-*   **Hardware:** AMD Ryzen 3 3250U | 8GB RAM (Standard Development Environment).
 
 ---
 
