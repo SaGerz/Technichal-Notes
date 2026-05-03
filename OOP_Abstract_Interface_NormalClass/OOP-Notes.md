@@ -71,9 +71,3 @@ public class ReimbursementService : BaseService, IReimbursementService, ILogger
    // IReimbursementService & ILogger = SOP tambahan (Boleh banyak)
 }
 ```
-
----
-
-### 🛠️ Tips Performa (Ryzen 3 3250U / 8GB RAM)
-*   **IDE:** Gunakan **VS Code** untuk proyek modern agar irit RAM.
-*   **RAM:** Sangat disarankan upgrade ke **16GB Dual Channel** agar iGPU tidak memakan sisa RAM utama yang dibutuhkan untuk *Build* project.
