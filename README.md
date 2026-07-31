@@ -8,6 +8,8 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 | Folder | Topik Utama | Status |
 | :--- | :--- | :--- |
 | [📂 OOP-Concepts](./OOP_Abstract_Interface_NormalClass/) | Pemahaman Interface, Abstract Class, dan Inheritance. | ✅ Selesai |
+| [📂 AppSetings-Concepts](./App_Settings_Config/) | Pemahaman AppSettings secara Development ataupun Prodcuction Flow. | ✅ Selesai |
+| [📂 Docker-Build-Concepts](./Docker_Build_Image_Concept/) | Pemahaman Container, Image dan terkait Docker | ✅ Selesai |
 
 ---
 
@@ -15,7 +17,7 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 
 Catatan di repo ini dibuat berdasarkan pengalaman ngoding di lingkungan berikut:
 *   **Language:** C# (.NET 6/8)
-*   **Tools:** Visual Studio 2022, VS Code, JetBrains Rider.
+*   **Tools:** Visual Studio 2022, VS Code, JetBrains Rider, Docker.
 
 ---
 
