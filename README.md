@@ -11,6 +11,7 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 | [📂 AppSetings-Concepts](./App_Settings_Config/) | Pemahaman AppSettings secara Development ataupun Prodcuction Flow. | ✅ Selesai |
 | [📂 Docker-Build-Concepts](./Docker_Build_Image_Concept/) | Pemahaman Container, Image dan terkait Docker | ✅ Selesai |
 | [📂 Docker-Network-Concepts](./Docker_Network_Concept/) | Pemahaman Network terkait Docker | ✅ Selesai |
+| [📂 Docker-Environment-Concepts](./Docker_Environment_Concept/) | Pemahaman Environment terkait Docker | ✅ Selesai |
 
 ---
 
