@@ -12,6 +12,7 @@ Selamat datang di repository catatan teknis saya! Repo ini adalah jurnal belajar
 | [📂 Docker-Build-Concepts](./Docker_Build_Image_Concept/) | Pemahaman Container, Image dan terkait Docker | ✅ Selesai |
 | [📂 Docker-Network-Concepts](./Docker_Network_Concept/) | Pemahaman Network terkait Docker | ✅ Selesai |
 | [📂 Docker-Environment-Concepts](./Docker_Environment_Concept/) | Pemahaman Environment terkait Docker | ✅ Selesai |
+| [📂 Docker-HealthCheck-Concepts](./Docker_HealthCheck_Concept/) | Pemahaman Docker terkait HealtCheck | ✅ Selesai |
 
 ---
 
